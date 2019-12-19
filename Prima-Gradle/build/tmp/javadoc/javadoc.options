@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\CltControl\\eclipse-workspace\\Prima-Gradle\\build\\classes\\java\\main;C:\\Users\\CltControl\\eclipse-workspace\\Prima-Gradle\\build\\resources\\main;C:\\Users\\CltControl\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.commons\\commons-math3\\3.6.1\\e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf\\commons-math3-3.6.1.jar;C:\\Users\\CltControl\\.gradle\\caches\\modules-2\\files-2.1\\com.google.guava\\guava\\20.0\\89507701249388e1ed5ddcf8c41f4ce1be7831ef\\guava-20.0.jar'
+-d 'C:\\Users\\CltControl\\eclipse-workspace\\Prima-Gradle\\build\\docs\\javadoc'
+-doctitle 'Prima-Gradle API'
+-quiet 
+-windowtitle 'Prima-Gradle API'
+'C:\\Users\\CltControl\\eclipse-workspace\\Prima-Gradle\\src\\main\\java\\Datos.java'
+'C:\\Users\\CltControl\\eclipse-workspace\\Prima-Gradle\\src\\main\\java\\Prima.java'
