@@ -143,12 +143,10 @@ public class PrimaTest {
 		}
 		@Test
 		public void prima_c15() {
-			Prima p1 = new Prima(0,0);
+			Prima p1 = new Prima(-2,-2);
 			int valor_esperado  = -1;
 			int resultado = p1.calcularPrima();
-			assertEquals(valor_esperado, resultado,0) ;
-
-				
+			assertEquals(valor_esperado, resultado,0) ;	
 		}
  
  
