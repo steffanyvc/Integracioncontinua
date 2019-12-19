@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PrimaTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2019-12-03T21:55:57" hostname="GGIECSOFWRK151" time="0.009">
+<testsuite name="PrimaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-19T21:31:38" hostname="LAPTOP-POHICFLC" time="0.013">
   <properties/>
-  <testcase name="prima_c10" classname="PrimaTest" time="0.005"/>
-  <testcase name="prima_c11" classname="PrimaTest" time="0.0"/>
-  <testcase name="prima_c12" classname="PrimaTest" time="0.001"/>
-  <testcase name="prima_c13" classname="PrimaTest" time="0.0"/>
-  <testcase name="prima_c14" classname="PrimaTest" time="0.0"/>
-  <testcase name="prima_c1" classname="PrimaTest" time="0.001"/>
-  <testcase name="prima_c2" classname="PrimaTest" time="0.0"/>
-  <testcase name="prima_c3" classname="PrimaTest" time="0.0"/>
-  <testcase name="prima_c4" classname="PrimaTest" time="0.0"/>
-  <testcase name="prima_c5" classname="PrimaTest" time="0.0"/>
-  <testcase name="prima_c6" classname="PrimaTest" time="0.0"/>
-  <testcase name="prima_c7" classname="PrimaTest" time="0.0"/>
-  <testcase name="prima_c8" classname="PrimaTest" time="0.0"/>
-  <testcase name="prima_c9" classname="PrimaTest" time="0.0"/>
-  <system-out><![CDATA[Prima: 550
-Prima: 750
-No cumple requisitos
-No cumple requisitos
-No cumple requisitos
-No cumple requisitos
-Prima: 1350
-Prima: 1400
-Prima: 850
-Prima: 900
-Prima: 400
-Prima: 500
-Prima: 250
-Prima: 400
+  <testcase name="prima_c14" classname="PrimaTest" time="0.013"/>
+  <system-out><![CDATA[No cumple requisitos
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
